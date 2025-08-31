@@ -4,7 +4,7 @@
 
 soong_namespace {
     imports: [
-        "device/samsung/a21s-common",
+        "device/samsung/exynos850-common",
         "hardware/samsung",
         "hardware/samsung_slsi-linaro/exynos",
         "hardware/samsung_slsi-linaro/graphics",
